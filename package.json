@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AtaReversei/wubba-lubba-dub-dub/issues"
   },
-  "homepage": "https://github.com/AtaReversei/wubba-lubba-dub-dub#readme"
+  "homepage": "https://github.com/AtaReversei/wubba-lubba-dub-dub#readme",
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
 }
