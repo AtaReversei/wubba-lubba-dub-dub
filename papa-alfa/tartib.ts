@@ -11,7 +11,3 @@ function bubble_sort(arr: number[]): void {
     }
   }
 }
-
-let arr = [5, 10, 3, 0, 2, 12, 43, 1, 1, 2]
-bubble_sort(arr)
-console.log(arr)
